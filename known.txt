@@ -1,0 +1,7 @@
+for getting all the information about a class or module
+
+we need to select the module and press ctrl + on pycharm
+
+and f12 on visual studio code
+
+
